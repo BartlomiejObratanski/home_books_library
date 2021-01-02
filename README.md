@@ -1,5 +1,5 @@
 # home_books_library
-Program for keeping a home book list of currently owned and lent books.
+home book list of currently owned and lent books
 
 **The database will be created by the first run of the program in a file "BO_books.sqlite"**
 
